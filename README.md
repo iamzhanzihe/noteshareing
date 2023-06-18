@@ -1,5 +1,8 @@
 # Side-Project : 考古題共享平台
 
+[![hackmd-github-sync-badge](https://hackmd.io/AULir74LTleQyJQxIXF_2g/badge)](https://hackmd.io/AULir74LTleQyJQxIXF_2g)
+
+
 ## 小組討論
 ### 第一次討論(2023/05/16)
 > 確定小組成員：詹子禾、郭奕漢、張珈豪、李嘉馨、徐薏蓁
