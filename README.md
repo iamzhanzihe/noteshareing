@@ -112,7 +112,9 @@
 https://www.figma.com/file/jL08qUVklpK6lnWh17Bnz2/TKU%E8%80%83%E5%8F%A4%E9%A1%8C%E5%85%B1%E4%BA%AB%E5%B9%B3%E5%8F%B0?type=whiteboard&node-id=0%3A1&t=eRWd0GGXgpIcFfeG-1
  
 **MySQL**：用於組織、存儲和管理結構化資料的系統，並提供查詢、一致性、安全性和恢復功能
+
 **Flutter**：Google 開發的跨平台框架，在iOS 和 Android 上開發一致的應用程式
+
 **Node.js**：伺服器端運行環境，具有事件驅動和高效處理大量並發請求的能力，適用於構建可擴展的伺服器端應用程式
  
 * 使用者介面
