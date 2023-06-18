@@ -1,8 +1,5 @@
 # Side-Project : 考古題共享平台
 
-[![hackmd-github-sync-badge](https://hackmd.io/AULir74LTleQyJQxIXF_2g/badge)](https://hackmd.io/AULir74LTleQyJQxIXF_2g)
-
-
 ## 小組討論
 ### 第一次討論(2023/05/16)
 > 確定小組成員：詹子禾、郭奕漢、張珈豪、李嘉馨、徐薏蓁
@@ -125,27 +122,27 @@ https://www.figma.com/file/jL08qUVklpK6lnWh17Bnz2/TKU%E8%80%83%E5%8F%A4%E9%A1%8C
     
     * 登入頁面
     
-    ![](https://hackmd.io/_uploads/BkXf1ehP2.png =30%x) ![](https://hackmd.io/_uploads/HkTJ0JnD2.png =30%x)
+    ![](https://hackmd.io/_uploads/BkXf1ehP2.png =215x433) ![](https://hackmd.io/_uploads/HkTJ0JnD2.png =215x433)
     
     * 主頁
     
-    ![](https://hackmd.io/_uploads/r1ThILsP3.png =30%x) ![](https://hackmd.io/_uploads/HJB0D8sPh.png =30%x)
+    ![](https://hackmd.io/_uploads/r1ThILsP3.png =215x433) ![](https://hackmd.io/_uploads/HJB0D8sPh.png =215x433)
     
     * 搜尋
     
-    ![](https://hackmd.io/_uploads/BkBrP8jP2.png =30%x)
+    ![](https://hackmd.io/_uploads/BkBrP8jP2.png =215x433)
     
     * 考古題
     
-    ![](https://hackmd.io/_uploads/H1xrPPf3P3.png =30%x) ![](https://hackmd.io/_uploads/SyJCPMnwn.png =30%x) ![](https://hackmd.io/_uploads/HJuKuz3Dn.png =30%x) ![](https://hackmd.io/_uploads/SkYeCJ2D2.png =30%x) ![](https://hackmd.io/_uploads/S1WbYM3D2.png =30%x)
+    ![](https://hackmd.io/_uploads/H1xrPPf3P3.png =215x433) ![](https://hackmd.io/_uploads/SyJCPMnwn.png =215x433) ![](https://hackmd.io/_uploads/HJuKuz3Dn.png =215x433) ![](https://hackmd.io/_uploads/SkYeCJ2D2.png =215x433) ![](https://hackmd.io/_uploads/S1WbYM3D2.png =215x433)
     
     * 共邊筆記
     
-    ![](https://hackmd.io/_uploads/HyRIKLiD2.png =30%x) ![](https://hackmd.io/_uploads/HJ4Y9Isw3.png =30%x) ![](https://hackmd.io/_uploads/r1FBoUjPn.png =30%x) ![](https://hackmd.io/_uploads/BkZQjIoPh.png =30%x)
+    ![](https://hackmd.io/_uploads/HyRIKLiD2.png =215x433) ![](https://hackmd.io/_uploads/HJ4Y9Isw3.png =215x433) ![](https://hackmd.io/_uploads/r1FBoUjPn.png =215x433) ![](https://hackmd.io/_uploads/BkZQjIoPh.png =215x433)
     
     * 我的積分
     
-    ![](https://hackmd.io/_uploads/ryYFJe2P3.png =30%x) ![](https://hackmd.io/_uploads/SkEzRkhPh.png =30%x)
+    ![](https://hackmd.io/_uploads/ryYFJe2P3.png =215x433) ![](https://hackmd.io/_uploads/SkEzRkhPh.png =215x433)
 
 
     
