@@ -1,8 +1,5 @@
 # Side-Project : 考古題共享平台
 
-[![hackmd-github-sync-badge](https://hackmd.io/AULir74LTleQyJQxIXF_2g/badge)](https://hackmd.io/AULir74LTleQyJQxIXF_2g)
-
-
 ## 小組討論
 ### 第一次討論(2023/05/16)
 > 確定小組成員：詹子禾、郭奕漢、張珈豪、李嘉馨、徐薏蓁
@@ -56,7 +53,6 @@
   
 * 參考範例
 
-   連結：
    https://github.com/NCTUCSUnion/csox
 
 ### 第四次討論(2023/06/05)
@@ -111,18 +107,13 @@
   
 * 系統架構圖
 ![](https://hackmd.io/_uploads/rJBS4IiP3.png)
-連結：
-https://www.figma.com/file/jL08qUVklpK6lnWh17Bnz2/TKU%E8%80%83%E5%8F%A4%E9%A1%8C%E5%85%B1%E4%BA%AB%E5%B9%B3%E5%8F%B0?type=whiteboard&node-id=0%3A1&t=eRWd0GGXgpIcFfeG-1
+ https://www.figma.com/file/jL08qUVklpK6lnWh17Bnz2/TKU%E8%80%83%E5%8F%A4%E9%A1%8C%E5%85%B1%E4%BA%AB%E5%B9%B3%E5%8F%B0?type=whiteboard&node-id=0%3A1&t=eRWd0GGXgpIcFfeG-1
  
 **MySQL**：用於組織、存儲和管理結構化資料的系統，並提供查詢、一致性、安全性和恢復功能
 **Flutter**：Google 開發的跨平台框架，在iOS 和 Android 上開發一致的應用程式
 **Node.js**：伺服器端運行環境，具有事件驅動和高效處理大量並發請求的能力，適用於構建可擴展的伺服器端應用程式
  
 * 使用者介面
-
-    連結：
-    https://www.figma.com/file/Myk6nmfjsEpBtMEvlx12Eo/%E8%80%83%E5%8F%A4%E9%A1%8C%E5%85%B1%E4%BA%AB%E5%B9%B3%E5%8F%B0-UI?type=design&node-id=0%3A1&t=zCqnJjhwYgM47Ui9-1
-    
     * 登入頁面
     
     ![](https://hackmd.io/_uploads/BkXf1ehP2.png =30%x) ![](https://hackmd.io/_uploads/HkTJ0JnD2.png =30%x)
