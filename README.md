@@ -122,7 +122,7 @@ https://www.figma.com/file/jL08qUVklpK6lnWh17Bnz2/TKU%E8%80%83%E5%8F%A4%E9%A1%8C
     
     * 登入頁面
     
-    ![](https://hackmd.io/_uploads/BkXf1ehP2.png) ![](https://hackmd.io/_uploads/HkTJ0JnD2.png)
+    ![](https://hackmd.io/_uploads/BkXf1ehP2.png =430*932) ![](https://hackmd.io/_uploads/HkTJ0JnD2.png =430*932)
     
     * 主頁
     
