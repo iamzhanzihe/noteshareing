@@ -54,30 +54,7 @@ https://www.figma.com/file/jL08qUVklpK6lnWh17Bnz2/TKU%E8%80%83%E5%8F%A4%E9%A1%8C
 
     連結：
     https://www.figma.com/file/Myk6nmfjsEpBtMEvlx12Eo/%E8%80%83%E5%8F%A4%E9%A1%8C%E5%85%B1%E4%BA%AB%E5%B9%B3%E5%8F%B0-UI?type=design&node-id=0%3A1&t=zCqnJjhwYgM47Ui9-1
-    
-    * 登入頁面
-    
-    ![](https://hackmd.io/_uploads/BkXf1ehP2.png =215x433) ![](https://hackmd.io/_uploads/HkTJ0JnD2.png =215x433)
-    
-    * 主頁
-    
-    ![](https://hackmd.io/_uploads/r1ThILsP3.png =215x433) ![](https://hackmd.io/_uploads/HJB0D8sPh.png =215x433)
-    
-    * 搜尋
-    
-    ![](https://hackmd.io/_uploads/BkBrP8jP2.png =215x433)
 
-    * 考古題
-    
-    ![](https://hackmd.io/_uploads/H1xrPPf3P3.png =215x433) ![](https://hackmd.io/_uploads/SyJCPMnwn.png =215x433) ![](https://hackmd.io/_uploads/HJuKuz3Dn.png =215x433) ![](https://hackmd.io/_uploads/SkYeCJ2D2.png =215x433) ![](https://hackmd.io/_uploads/S1WbYM3D2.png =215x433)
-    
-    * 共編筆記
-    
-    ![](https://hackmd.io/_uploads/HyRIKLiD2.png =215x433) ![](https://hackmd.io/_uploads/HJ4Y9Isw3.png =215x433) ![](https://hackmd.io/_uploads/r1FBoUjPn.png =215x433) ![](https://hackmd.io/_uploads/BkZQjIoPh.png =215x433)
-    
-    * 我的積分
-    
-    ![](https://hackmd.io/_uploads/ryYFJe2P3.png =215x433) ![](https://hackmd.io/_uploads/SkEzRkhPh.png =215x433)
 
 
     
